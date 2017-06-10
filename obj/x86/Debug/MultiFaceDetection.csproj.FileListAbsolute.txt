@@ -1,0 +1,33 @@
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Bazz\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bazz\Desktop\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceDetection.csproj.GenerateResource.Cache
+C:\Users\Bazz\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Desktop\MultiFaceDetection\bin\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Desktop\MultiFaceDetection\bin\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Desktop\MultiFaceDetection\bin\Debug\Emgu.CV.xml
+C:\Users\Bazz\Desktop\MultiFaceDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bazz\Desktop\MultiFaceDetection\bin\Debug\Emgu.Util.xml
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Bazz\Desktop\MultiFaceDetection\obj\x86\Debug\MultiFaceDetection.csproj.GenerateResource.Cache
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\bin\Debug\MultiFaceRec.exe
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\bin\Debug\MultiFaceRec.pdb
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\bin\Debug\Emgu.CV.xml
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\bin\Debug\Emgu.Util.xml
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\MultiFaceDetection\obj\x86\Debug\MultiFaceDetection.csproj.GenerateResource.Cache
